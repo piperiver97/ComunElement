@@ -1,0 +1,19 @@
+{
+  "name": "comuntelement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piperiver97/ComunElement.git"
+  },
+  "author": "Felipe Riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piperiver97/ComunElement/issues"
+  },
+  "homepage": "https://github.com/piperiver97/ComunElement#readme"
+}
